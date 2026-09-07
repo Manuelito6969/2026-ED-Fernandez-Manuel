@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PremiacionDeportistas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f779f43df370b46c6cb7debc6d4db0c1e8d4544c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f76d105b085eb9a648de01cbbcd5ad0e0ef021")]
 [assembly: System.Reflection.AssemblyProductAttribute("PremiacionDeportistas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PremiacionDeportistas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
