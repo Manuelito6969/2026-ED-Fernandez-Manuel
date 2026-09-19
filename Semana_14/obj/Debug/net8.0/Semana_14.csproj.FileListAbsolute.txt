@@ -1,0 +1,15 @@
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.AssemblyInfoInputs.cache
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.AssemblyInfo.cs
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.csproj.CoreCompileInputs.cache
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.sourcelink.json
+D:\Programacion_UEA\Semana_14\bin\Debug\net8.0\Semana_14.exe
+D:\Programacion_UEA\Semana_14\bin\Debug\net8.0\Semana_14.deps.json
+D:\Programacion_UEA\Semana_14\bin\Debug\net8.0\Semana_14.runtimeconfig.json
+D:\Programacion_UEA\Semana_14\bin\Debug\net8.0\Semana_14.dll
+D:\Programacion_UEA\Semana_14\bin\Debug\net8.0\Semana_14.pdb
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.dll
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\refint\Semana_14.dll
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.pdb
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\Semana_14.genruntimeconfig.cache
+D:\Programacion_UEA\Semana_14\obj\Debug\net8.0\ref\Semana_14.dll
